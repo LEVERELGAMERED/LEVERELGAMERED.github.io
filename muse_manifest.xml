@@ -1,0 +1,42 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="LEVERELGAMERED.github.io" resolutions="1x" timestamp="1584546341818">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="105939149" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="w512h5121380376600flurryyoutubealt2.png" crc="4243311252" seo="true" mt="1579362620000"/>
+    <file name="(100)-leverel-game-red---youtube.html" crc="420265683" seo="true" mt="1584516040000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="домашняя-favicon.ico" crc="4049418757" ref="index"/>
+    <file name="без имени-1.jpg" crc="300958853" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u117.png" crc="521935467" ref="index"/>
+    <file name="u117-r.png" crc="521935467" ref="index"/>
+    <file name="logo 2020 3-u105.png" crc="4287084612" ref="index"/>
+    <file name="u413-4.png" crc="143349457" ref="index"/>
+    <file name="logo 2020 5.png" crc="260167569" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u240-4.png" crc="216925915" ref="index"/>
+    <file name="u305-4.png" crc="16899967" ref="index"/>
+    <file name="9996.png" crc="345230642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="верш.png" crc="347894728" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="412871661" seo="true" mt="1584546341402" redirect="true"/>
+</manifest>
